@@ -4,12 +4,13 @@
 
 I'm building my foundation in cybersecurity through continuous learning and practical experience.
 
-### Currently Learning
-- Linux
-- File Systems & Permissions
-- Cybersecurity Fundamentals
-- Networking (Upcoming)
-- Python (Upcoming)
+### Current Level
+
+- English: Beginner (A1)
+- Cybersecurity: Beginner
+- Linux: Foundational Knowledge
+- Networking: Planned
+- Python: Planned
 
 ### Certifications & Learning
 - Introduction to Cybersecurity
